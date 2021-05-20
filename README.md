@@ -1,3 +1,3 @@
 # miniShell
 
-![](miniShell.gif)
+![](miniShell.mov)
